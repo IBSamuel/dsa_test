@@ -1,0 +1,32 @@
+1.
+10 Hosting Platforms
+
+
+1. AwardSpace 
+2. Namechip
+3. Q severs
+4. Vercel
+5. Github
+6. Render
+7. Netlify
+8. Firebase
+9. Namechio
+10.Zero web hosting
+
+2.
+step 1
+run npm "run build" to compress the file
+step 2
+login to you cpanel account 
+step 3
+Go to uploads and go to where you have
+public where you can upload files to upload to the main domain
+step 4
+zip the dist folder
+step 5
+Upload the zip folder to your c panel
+step 6
+double click to see options to unzip and unzip it to the public
+step 7
+check if the directory displayed is correct if so then click okay then check the main domain if it has updated the changes made 
+
